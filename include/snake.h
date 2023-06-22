@@ -13,7 +13,6 @@ class Snake{
 		vector<COORD> snakeBody;
 	public:
 	    Snake(COORD pos);
-            void board();
 	    COORD getPos();
 	    void setDir(int d);
 	    void moveSnake();
