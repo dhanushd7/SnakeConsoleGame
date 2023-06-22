@@ -1,1 +1,1 @@
-# SnakeGameConsole
+# SnakeGameConsoleApplication
